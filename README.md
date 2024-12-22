@@ -1,5 +1,5 @@
 # ProgrammingAssignment3
-John Hopkins University - Course Project: Getting and Cleaning Data
+John Hopkins University
 
 # Getting and Cleaning Data - Course Project
 
